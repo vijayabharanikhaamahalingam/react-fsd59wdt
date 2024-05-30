@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 
-const Login = () => {
+const Note = () => {
     return (
         <div>
           <h1>Login</h1>
@@ -14,4 +14,4 @@ const Login = () => {
     )
   }
   
-  export default Login;
+  export default Note;

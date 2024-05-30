@@ -1,7 +1,7 @@
 import { Link, RouterProvider, createBrowserRouter } from "react-router-dom";
-import Home from "./assets/pages/Home";
 import Register from "./assets/pages/Register";
 import Login from "./assets/pages/Login";
+import Home from "./assets/pages/Home";
 
 // create a router
 const router = createBrowserRouter([
